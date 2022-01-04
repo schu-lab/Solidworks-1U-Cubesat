@@ -6,6 +6,8 @@ https://www.nasa.gov/sites/default/files/atoms/files/nasa_csli_cubesat_101_508.p
 http://www.cubesatkit.com</br>
 https://www.cubesat.org/s/cds_rev13_final2.pdf</br>
 
+See Final Assembly pdf: https://github.com/schu-lab/Solidworks-1U-Cubesat/blob/main/CHUS-FinalProject.pdf </br>
+
 <p align="center">
-  <img src=https://github.com/schu-lab/Solidworks-1U-Cubesat/blob/main/giphy-1.gif alt="animated" height="400" />
+  <img src=https://github.com/schu-lab/Solidworks-1U-Cubesat/blob/main/giphy-1.gif alt="animated" height="400" /></br>
 </p>
