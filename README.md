@@ -4,7 +4,7 @@ Utilized Solidworks 2020 Standard - Student Edition to create the 3D models with
 See Final Assembly pdf: https://github.com/schu-lab/Solidworks-1U-Cubesat/blob/main/CHUS-FinalProject.pdf </br>
 
 <p align="center">
-  <img src=hhttps://github.com/schu-lab/Solidworks-1U-Cubesat/blob/main/Preview-1U-Cubesat-Solidworks.png?raw=true  height="400" /></br>
+  <img src=hhttps://github.com/schu-lab/Solidworks-1U-Cubesat/blob/main/Preview-1U-Cubesat-Solidworks.png?raw=true alt="animated"  height="400" /></br>
 </p>
 
 <p align="center">
